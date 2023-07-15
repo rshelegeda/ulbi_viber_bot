@@ -22,7 +22,8 @@ bot.on(BotEvents.MESSAGE_RECEIVED, (message, response) => {
 });
 
 const port = 3000;
-const EXPOSE_URL = 'https://webhook.site/8c78c265-0027-4aba-835d-ec23056d8563';
+const EXPOSE_URL = 'https://webhook.site/09ff9bed-0516-46a2-9732-9505a1070768';
+                    
 
 app.use("/viber/webhook", bot.middleware());
 
