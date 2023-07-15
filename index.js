@@ -1,4 +1,4 @@
-const token = '513924ee9b67e58b-5dd90bd61293e8da-b476d2526bc0e0e9';
+const token = '5156d127ab27e769-d42f0c2915ed61cb-ec314a4b009fb46c';
 
 const ViberBot = require('viber-bot').Bot,
 BotEvents = require('viber-bot').Events,
